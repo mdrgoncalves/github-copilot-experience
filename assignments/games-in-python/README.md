@@ -1,10 +1,10 @@
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Você aprenderá a criar um jogo clássico de adivinhação de palavras usando manipulação de strings, loops e entrada do usuário em Python.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️	Implementar Seleção Aleatória de Palavras
 
