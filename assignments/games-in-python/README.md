@@ -6,7 +6,7 @@ Você aprenderá a criar um jogo clássico de adivinhação de palavras usando m
 
 ## 📝 Tasks
 
-### 🛠️ Implementar Seleção Aleatória de Palavras
+### 🛠️	Implementar Seleção Aleatória de Palavras
 
 #### Description
 Crie um mecanismo para selecionar aleatoriamente uma palavra de uma lista predefinida que será usada como palavra secreta do jogo.
@@ -18,7 +18,8 @@ Completed program should:
 - Usar o módulo `random` para selecionar uma palavra aleatória
 - Garantir que a palavra selecionada esteja disponível para toda a lógica do jogo
 
-### 🛠️ Gerenciar Tentativas e Progresso do Jogador
+
+### 🛠️	Gerenciar Tentativas e Progresso do Jogador
 
 #### Description
 Implemente a lógica para aceitar palpites de letras, validar se estão corretas e exibir o progresso atual da palavra com letras reveladas e underscores.
@@ -32,7 +33,8 @@ Completed program should:
 - Manter um histórico de letras já adivinhas
 - Evitar contar o mesmo palpite duas vezes
 
-### 🛠️ Implementar Lógica de Fim de Jogo
+
+### 🛠️	Implementar Lógica de Fim de Jogo
 
 #### Description
 Crie a lógica para determinar e comunicar claramente quando o jogo termina, seja por vitória (palavra completa) ou derrota (tentativas esgotadas).
